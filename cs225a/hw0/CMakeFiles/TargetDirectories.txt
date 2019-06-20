@@ -1,0 +1,12 @@
+/home/lici/apps/cs225a/hw0/CMakeFiles/rebuild_cache.dir
+/home/lici/apps/cs225a/hw0/CMakeFiles/edit_cache.dir
+/home/lici/apps/cs225a/hw0/lecture2-demo/CMakeFiles/rebuild_cache.dir
+/home/lici/apps/cs225a/hw0/lecture2-demo/CMakeFiles/edit_cache.dir
+/home/lici/apps/cs225a/hw0/lecture2-demo/CMakeFiles/controller.dir
+/home/lici/apps/cs225a/hw0/lecture2-demo/CMakeFiles/simviz.dir
+/home/lici/apps/cs225a/hw0/lecture2-demo/CMakeFiles/simulation.dir
+/home/lici/apps/cs225a/hw0/lecture2-demo/CMakeFiles/visualization.dir
+/home/lici/apps/cs225a/hw0/hw0/CMakeFiles/edit_cache.dir
+/home/lici/apps/cs225a/hw0/hw0/CMakeFiles/hw0.dir
+/home/lici/apps/cs225a/hw0/hw0/CMakeFiles/rebuild_cache.dir
+/home/lici/apps/cs225a/hw0/hw0/CMakeFiles/hw0_viz.dir
